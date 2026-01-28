@@ -37,10 +37,7 @@ Three distinct locations were chosen to simulate different signal propagation co
 
 ### 📸 Visual Evidence (Screenshots)
 
-_Service Mode screenshots for each location:_
-
-|            Outdoor (A)            |             Indoor (B)              |             Deep Indoor (C)              |
-| :-------------------------------: | :---------------------------------: | :--------------------------------------: |
+\_Service Mode screenshots for each location:
 | ![Outdoor](./screenshots/sc.jpeg) | ![Indoor](./screenshots/460201.jpg) | ![Deep Indoor](./screenshots/460202.jpg) |
 
 ---
