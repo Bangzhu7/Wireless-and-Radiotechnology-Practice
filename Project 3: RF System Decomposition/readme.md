@@ -7,7 +7,7 @@ Datasheet Link:
 https://www.nordicsemi.com/Products/nRF52840?lang=en
 
 1. RF System Block Diagram
-   请根据以下描述，在你的 GitHub 中上传一张手绘或使用在线工具（如 Draw.io）绘制的框图。
+   ![RF Block Diagram](./image.png)
 
 2. RF Block Explanations
    Information Source / MCU (ARM® Cortex®-M4)
